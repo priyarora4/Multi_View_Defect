@@ -1,0 +1,8 @@
+NestedUnet_Segmentation_best.pth
+.vscode/
+__pycache__/
+best_model.pth
+best_model_weighted.pth
+wandb/
+Multi_View_Defect/saves_priy/
+Multi_View_Defect/__pycache__/
